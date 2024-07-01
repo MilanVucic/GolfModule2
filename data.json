@@ -1,0 +1,33 @@
+{
+  "name": "Milan",
+  "age": 25,
+  "isUnderage": false,
+  "height": 188.55,
+  "address": {
+    "city": "Belgrade",
+    "zipCode": 11000,
+    "country": {
+      "name": "Serbia",
+      "code": "RS"
+    }
+  },
+  "grades": [
+    1,
+    2,
+    3
+  ],
+  "phoneNumbers": [
+    {
+      "number": 182381238,
+      "isMobile": true
+    },
+    {
+      "number": 123123123,
+      "isMobile": false
+    },
+    {
+      "number": 894845,
+      "isMobile": false
+    }
+  ]
+}

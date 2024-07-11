@@ -1,8 +1,11 @@
 package lesson_16;
 
+import lesson_18.ToString;
+
 import java.io.Serializable;
 import java.util.List;
 
+@ToString
 public class Person implements Serializable {
     private String name;
     private int age;
